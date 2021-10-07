@@ -21,5 +21,8 @@ class ReverseString
 
  
         System.out.println(new String(result));
+        
+         System.out.println("reult is "+result);
+
     }
 }
