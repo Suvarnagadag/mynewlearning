@@ -16,6 +16,8 @@ class ReverseString
             result[i] = strAsByteArray[strAsByteArray.length - i - 1];
     
             System.out.println("priting revesed string");
+                System.out.println("hello welcopme back java");
+
 
  
         System.out.println(new String(result));
